@@ -1,9 +1,3 @@
-/*
-	Project Name: Snake Game (Basic)
-	Date: 15th Sep, 2018
-	Developer: Junaid Ahmed
-*/
-
 #include <iostream>
 #include <conio.h>
 #include <windows.h>
